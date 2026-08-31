@@ -6,41 +6,6 @@
 
 <br>
 
-<table>
-<tr>
-<td align="center" width="80">
-<a href="https://linkedin.com/in/priyeshd272709">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="32" height="32" alt="LinkedIn"/>
-</a>
-</td>
-<td align="center" width="80">
-<a href="https://github.com/PriyeshDubey1727">
-<img src="https://cdn.simpleicons.org/github/ffffff" width="32" height="32" alt="GitHub"/>
-</a>
-</td>
-<td align="center" width="80">
-<a href="https://leetcode.com/u/priyeshdubey_17/">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="32" height="32" alt="LeetCode"/>
-</a>
-</td>
-<td align="center" width="80">
-<a href="https://hackerrank.com/profile/2k24cs1m2414195">
-<img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="32" height="32" alt="HackerRank"/>
-</a>
-</td>
-<td align="center" width="80">
-<a href="mailto:priyeshdwivedi2006@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="Email"/>
-</a>
-</td>
-</tr>
-</table>
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=PriyeshDubey1727&color=6C63FF&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/PriyeshDubey1727?style=flat-square&color=6C63FF&label=Followers)
-
 </div>
 
 <br>
