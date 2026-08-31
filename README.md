@@ -6,6 +6,17 @@
 
 <br>
 
+<a href="https://linkedin.com/in/priyeshd272709"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/PriyeshDubey1727"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://leetcode.com/u/priyeshdubey_17/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://hackerrank.com/profile/2k24cs1m2414195"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+<a href="mailto:priyeshdwivedi2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=PriyeshDubey1727&color=6C63FF&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/PriyeshDubey1727?style=flat-square&color=6C63FF&label=Followers)
+
 </div>
 
 <br>
@@ -22,7 +33,8 @@ fun_fact: "Turning coffee and curiosity into code"
 ```
 
 - Currently building end-to-end full-stack applications and sharpening core CS fundamentals
-- Actively solving DSA problems
+- Exploring the intersection of **Machine Learning** and **Quantum Computing**
+- Actively solving DSA problems and contributing to personal/open-source projects
 - Graphic Design Lead at **Bastion Club, PSIT Kanpur**
 - Open to **Full-Stack Development internship** opportunities
 - Reach me at **priyeshdwivedi2006@gmail.com**
@@ -130,6 +142,9 @@ Hybrid quantum-classical model using a trainable Variational Quantum Classifier 
 - **AI Essentials** — Google (2026)
 - **Python Programming** — Udemy (2026)
 - **Java (Basic)** — HackerRank (2026)
+- **Python (Basic)** — HackerRank (2025)
+- **Certificate of Participation** — ISRO Bharatiya Antariksh Hackathon (BAH) (2026)
+- **Introduction to Generative AI – Art of the Possible** — AWS Training & Certification
 
 <br>
 
@@ -162,11 +177,40 @@ Hybrid quantum-classical model using a trainable Variational Quantum Classifier 
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyeshd272709)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PriyeshDubey1727)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/priyeshdubey_17/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/profile/2k24cs1m2414195)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyeshdwivedi2006@gmail.com)
+<table>
+<tr>
+<td align="center" width="96">
+<a href="https://linkedin.com/in/priyeshd272709">
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" alt="LinkedIn"/>
+<br><sub><b>LinkedIn</b></sub>
+</a>
+</td>
+<td align="center" width="96">
+<a href="https://github.com/PriyeshDubey1727">
+<img src="https://cdn.simpleicons.org/github/ffffff" width="40" height="40" alt="GitHub"/>
+<br><sub><b>GitHub</b></sub>
+</a>
+</td>
+<td align="center" width="96">
+<a href="https://leetcode.com/u/priyeshdubey_17/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="40" height="40" alt="LeetCode"/>
+<br><sub><b>LeetCode</b></sub>
+</a>
+</td>
+<td align="center" width="96">
+<a href="https://hackerrank.com/profile/2k24cs1m2414195">
+<img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="40" height="40" alt="HackerRank"/>
+<br><sub><b>HackerRank</b></sub>
+</a>
+</td>
+<td align="center" width="96">
+<a href="mailto:priyeshdwivedi2006@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" alt="Email"/>
+<br><sub><b>Email</b></sub>
+</a>
+</td>
+</tr>
+</table>
 
 ### *Building consistently. Learning deeply. Solving better.*
 
