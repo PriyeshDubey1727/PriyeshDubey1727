@@ -5,6 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=8B8FA3&center=true&vCenter=true&width=600&height=40&lines=Full-Stack+Developer;DSA+Enthusiast;Quantum+ML+Explorer" alt="typing tagline"/>
 
 <br>
+
 </div>
 
 <br>
@@ -21,8 +22,7 @@ fun_fact: "Turning coffee and curiosity into code"
 ```
 
 - Currently building end-to-end full-stack applications and sharpening core CS fundamentals
-- Exploring the intersection of **Machine Learning** and **Quantum Computing**
-- Actively solving DSA problems and contributing to personal/open-source projects
+- Actively solving DSA problems 
 - Graphic Design Lead at **Bastion Club, PSIT Kanpur**
 - Open to **Full-Stack Development internship** opportunities
 - Reach me at **priyeshdwivedi2006@gmail.com**
@@ -150,13 +150,11 @@ Hybrid quantum-classical model using a trainable Variational Quantum Classifier 
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=PriyeshDubey1727&show_icons=true&theme=radical&hide_border=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyeshDubey1727&theme=radical&hide_border=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyeshDubey1727&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=PriyeshDubey1727&layout=compact&theme=radical&hide_border=true" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PriyeshDubey1727&theme=radical&hide_border=true" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PriyeshDubey1727&theme=radical&hide_border=true" width="80%" />
 </div>
 
 <br>
