@@ -14,9 +14,6 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=PriyeshDubey1727&color=6C63FF&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/PriyeshDubey1727?style=flat-square&color=6C63FF&label=Followers)
-
 </div>
 
 <br>
