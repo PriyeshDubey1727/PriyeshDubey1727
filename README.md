@@ -5,7 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=8B8FA3&center=true&vCenter=true&width=600&height=40&lines=Full-Stack+Developer;DSA+Enthusiast;Quantum+ML+Explorer" alt="typing tagline"/>
 
 <br>
-
 </div>
 
 <br>
@@ -151,12 +150,12 @@ Hybrid quantum-classical model using a trainable Variational Quantum Classifier 
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PriyeshDubey1727&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=PriyeshDubey1727&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyeshDubey1727&theme=radical&hide_border=true" width="49%" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyeshDubey1727&layout=compact&theme=radical&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyeshDubey1727&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" width="49%" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PriyeshDubey1727&theme=radical&hide_border=true" width="49%" />
 </div>
 
