@@ -5,7 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=8B8FA3&center=true&vCenter=true&width=600&height=40&lines=Full-Stack+Developer;DSA+Enthusiast;Quantum+ML+Explorer" alt="typing tagline"/>
 
 <br>
-<br>
 
 </div>
 
