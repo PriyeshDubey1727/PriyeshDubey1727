@@ -22,7 +22,8 @@ fun_fact: "Turning coffee and curiosity into code"
 ```
 
 - Currently building end-to-end full-stack applications and sharpening core CS fundamentals
-- Actively solving DSA problems 
+- Exploring the intersection of **Machine Learning** and **Quantum Computing**
+- Actively solving DSA problems and contributing to personal/open-source projects
 - Graphic Design Lead at **Bastion Club, PSIT Kanpur**
 - Open to **Full-Stack Development internship** opportunities
 - Reach me at **priyeshdwivedi2006@gmail.com**
@@ -82,19 +83,24 @@ fun_fact: "Turning coffee and curiosity into code"
 
 `HTML` `CSS` `JavaScript` `OCR`
 
-Extracts text from medical prescriptions and medicine labels via OCR, with an interactive upload interface that renders extracted information in a clean, readable format — cutting down manual data entry and improving accessibility of medical information.
+- Developed a web-based healthcare application that extracts text from medical prescriptions and medicine labels using OCR technology.
+- Built an interactive interface for uploading prescription images and displaying extracted information in a readable format.
+- Implemented OCR-based text recognition to reduce manual data entry and improve accessibility of medical information.
 
 *Recognized at ProTech*
 
 </td>
 <td width="50%" valign="top">
 
-### Quantum Fraud Detection
+### Quantum Variational Classifier for Transaction Fraud Detection
 **Variational Quantum Classifier for Transaction Fraud**
 
 `Python` `PennyLane` `Scikit-learn` `XGBoost`
 
-Hybrid quantum-classical model using a trainable Variational Quantum Classifier (PennyLane), benchmarked against Logistic Regression, Random Forest, and XGBoost across Accuracy, Precision, Recall, F1-score, and ROC-AUC.
+- Developed a hybrid Quantum-Classical Machine Learning model using a Variational Quantum Classifier (VQC) for financial transaction fraud detection.
+- Implemented quantum feature encoding and trainable quantum circuits using PennyLane and the PennyLane-Lightning simulator.
+- Performed data preprocessing, feature scaling, and class balancing on transaction datasets to improve classification performance.
+- Benchmarked the quantum model against Logistic Regression, Random Forest, and XGBoost using Accuracy, Precision, Recall, F1-score, and ROC-AUC metrics.
 
 </td>
 </tr>
