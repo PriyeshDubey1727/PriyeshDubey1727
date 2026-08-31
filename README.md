@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:6C63FF,100:00C9A7&height=220&section=header&animation=fadeIn" width="100%"/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=42&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&height=70&lines=Priyesh+Dubey" alt="Priyesh Dubey"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=8B8FA3&center=true&vCenter=true&width=600&height=40&lines=Full-Stack+Developer;DSA+Enthusiast;Quantum+ML+Explorer" alt="typing tagline"/>
@@ -23,7 +21,7 @@
 
 <br>
 
-## 👋 About Me
+## About Me
 
 ```yaml
 name: Priyesh Dubey
@@ -31,19 +29,19 @@ role: Full-Stack Developer & CS Undergraduate
 education: B.Tech CSE, PSIT Kanpur (2024 - Present) | CGPA: 8.06
 focus: [DSA, Full-Stack Web Development, Machine Learning, Quantum ML]
 currently_seeking: Full-Stack Development (FSD) Internship
-fun_fact: "Turning coffee ☕ and curiosity 🔍 into code"
+fun_fact: "Turning coffee and curiosity into code"
 ```
 
-- 🔭 Currently building end-to-end full-stack applications and sharpening core CS fundamentals
-- ⚛️ Exploring the intersection of **Machine Learning** and **Quantum Computing**
-- 🌱 Actively solving DSA problems and contributing to personal/open-source projects
-- 🎨 Graphic Design Lead at **Bastion Club, PSIT Kanpur**
-- 💼 Open to **Full-Stack Development internship** opportunities
-- 📫 Reach me at **priyeshdwivedi2006@gmail.com**
+- Currently building end-to-end full-stack applications and sharpening core CS fundamentals
+- Exploring the intersection of **Machine Learning** and **Quantum Computing**
+- Actively solving DSA problems and contributing to personal/open-source projects
+- Graphic Design Lead at **Bastion Club, PSIT Kanpur**
+- Open to **Full-Stack Development internship** opportunities
+- Reach me at **priyeshdwivedi2006@gmail.com**
 
 <br>
 
-## 🧠 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -85,25 +83,25 @@ fun_fact: "Turning coffee ☕ and curiosity 🔍 into code"
 
 <br>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🩺 MediLens
+### MediLens
 **OCR-Based Healthcare Application**
 
 `HTML` `CSS` `JavaScript` `OCR`
 
 Extracts text from medical prescriptions and medicine labels via OCR, with an interactive upload interface that renders extracted information in a clean, readable format — cutting down manual data entry and improving accessibility of medical information.
 
-🏅 *Recognized at ProTech*
+*Recognized at ProTech*
 
 </td>
 <td width="50%" valign="top">
 
-### ⚛️ Quantum Fraud Detection
+### Quantum Fraud Detection
 **Variational Quantum Classifier for Transaction Fraud**
 
 `Python` `PennyLane` `Scikit-learn` `XGBoost`
@@ -116,7 +114,7 @@ Hybrid quantum-classical model using a trainable Variational Quantum Classifier 
 
 <br>
 
-## 🎓 Education
+## Education
 
 | Institution | Program | Duration | Score |
 |:---|:---|:---:|:---:|
@@ -126,39 +124,39 @@ Hybrid quantum-classical model using a trainable Variational Quantum Classifier 
 
 <br>
 
-## 📈 Coding Progress
+## Coding Progress
 
 <div align="center">
 
 | Platform | Highlights |
 |:---:|:---|
-| 🟢 **LeetCode** | 140+ problems solved across Arrays, Strings, Linked Lists, Trees, Graphs & DP |
-| 🟢 **HackerRank** | ⭐⭐⭐⭐ Java &nbsp;·&nbsp; ⭐⭐⭐ Problem Solving &nbsp;·&nbsp; ⭐ Python |
+| **LeetCode** | 140+ problems solved across Arrays, Strings, Linked Lists, Trees, Graphs & DP |
+| **HackerRank** | Java &nbsp;·&nbsp; Problem Solving &nbsp;·&nbsp; Python |
 
 </div>
 
 <br>
 
-## 📜 Certifications
+## Certifications
 
-- 🎓 **AI Essentials** — Google (2026)
-- 🎓 **Python Programming** — Udemy (2026)
-- 🎓 **Java (Basic)** — HackerRank (2026)
+- **AI Essentials** — Google (2026)
+- **Python Programming** — Udemy (2026)
+- **Java (Basic)** — HackerRank (2026)
 
 <br>
 
-## 🎯 Current Goals
+## Current Goals
 
 | Goal | Status |
 |:---|:---:|
-| Deepen expertise in ML & Quantum Machine Learning | 🔭 In Progress |
-| Ship more full-stack applications end-to-end | 🌱 Ongoing |
-| Collaborate on open-source DSA & ML projects | 🤝 Open to it |
-| Secure a Full-Stack Development internship | 💼 Actively seeking |
+| Deepen expertise in ML & Quantum Machine Learning | In Progress |
+| Ship more full-stack applications end-to-end | Ongoing |
+| Collaborate on open-source DSA & ML projects | Open to it |
+| Secure a Full-Stack Development internship | Actively seeking |
 
 <br>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=PriyeshDubey1727&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
@@ -174,7 +172,7 @@ Hybrid quantum-classical model using a trainable Variational Quantum Classifier 
 
 <div align="center">
 
-## 📬 Let's Connect
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyeshd272709)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PriyeshDubey1727)
@@ -183,7 +181,5 @@ Hybrid quantum-classical model using a trainable Variational Quantum Classifier 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyeshdwivedi2006@gmail.com)
 
 ### *Building consistently. Learning deeply. Solving better.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:6C63FF&height=100&section=footer" width="100%"/>
 
 </div>
