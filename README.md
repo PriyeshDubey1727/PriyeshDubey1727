@@ -6,11 +6,35 @@
 
 <br>
 
-<a href="https://linkedin.com/in/priyeshd272709"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/PriyeshDubey1727"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://leetcode.com/u/priyeshdubey_17/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="https://hackerrank.com/profile/2k24cs1m2414195"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-<a href="mailto:priyeshdwivedi2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<table>
+<tr>
+<td align="center" width="80">
+<a href="https://linkedin.com/in/priyeshd272709">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="32" height="32" alt="LinkedIn"/>
+</a>
+</td>
+<td align="center" width="80">
+<a href="https://github.com/PriyeshDubey1727">
+<img src="https://cdn.simpleicons.org/github/ffffff" width="32" height="32" alt="GitHub"/>
+</a>
+</td>
+<td align="center" width="80">
+<a href="https://leetcode.com/u/priyeshdubey_17/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="32" height="32" alt="LeetCode"/>
+</a>
+</td>
+<td align="center" width="80">
+<a href="https://hackerrank.com/profile/2k24cs1m2414195">
+<img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="32" height="32" alt="HackerRank"/>
+</a>
+</td>
+<td align="center" width="80">
+<a href="mailto:priyeshdwivedi2006@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="Email"/>
+</a>
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -181,7 +205,7 @@ Hybrid quantum-classical model using a trainable Variational Quantum Classifier 
 <tr>
 <td align="center" width="96">
 <a href="https://linkedin.com/in/priyeshd272709">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" alt="LinkedIn"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="40" height="40" alt="LinkedIn"/>
 <br><sub><b>LinkedIn</b></sub>
 </a>
 </td>
