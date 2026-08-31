@@ -22,8 +22,7 @@ fun_fact: "Turning coffee and curiosity into code"
 ```
 
 - Currently building end-to-end full-stack applications and sharpening core CS fundamentals
-- Exploring the intersection of **Machine Learning** and **Quantum Computing**
-- Actively solving DSA problems and contributing to personal/open-source projects
+- Actively solving DSA problems
 - Graphic Design Lead at **Bastion Club, PSIT Kanpur**
 - Open to **Full-Stack Development internship** opportunities
 - Reach me at **priyeshdwivedi2006@gmail.com**
