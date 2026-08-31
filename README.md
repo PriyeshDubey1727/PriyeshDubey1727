@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=42&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&height=70&lines=Priyesh+Dubey" alt="Priyesh Dubey"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=42&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&width=600&height=70&lines=Priyesh+Dubey" alt="Priyesh Dubey"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=8B8FA3&center=true&vCenter=true&width=600&height=40&lines=Full-Stack+Developer;DSA+Enthusiast;Quantum+ML+Explorer" alt="typing tagline"/>
 
