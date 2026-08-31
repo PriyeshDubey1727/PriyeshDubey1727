@@ -22,7 +22,8 @@ fun_fact: "Turning coffee and curiosity into code"
 ```
 
 - Currently building end-to-end full-stack applications and sharpening core CS fundamentals
-- Actively solving DSA problems
+- Exploring the intersection of **Machine Learning** and **Quantum Computing**
+- Actively solving DSA problems and contributing to personal/open-source projects
 - Graphic Design Lead at **Bastion Club, PSIT Kanpur**
 - Open to **Full-Stack Development internship** opportunities
 - Reach me at **priyeshdwivedi2006@gmail.com**
@@ -86,13 +87,12 @@ fun_fact: "Turning coffee and curiosity into code"
 - Built an interactive interface for uploading prescription images and displaying extracted information in a readable format.
 - Implemented OCR-based text recognition to reduce manual data entry and improve accessibility of medical information.
 
-*Recognized at ProTech*
+*Recognized at ProTech — a project showcase for first-year students at PSIT Kanpur*
 
 </td>
 <td width="50%" valign="top">
 
 ### Quantum Variational Classifier for Transaction Fraud Detection
-**Variational Quantum Classifier for Transaction Fraud**
 
 `Python` `PennyLane` `Scikit-learn` `XGBoost`
 
