@@ -150,12 +150,12 @@ Hybrid quantum-classical model using a trainable Variational Quantum Classifier 
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PriyeshDubey1727&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api?username=PriyeshDubey1727&show_icons=true&theme=radical&hide_border=true" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyeshDubey1727&theme=radical&hide_border=true" width="49%" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyeshDubey1727&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=PriyeshDubey1727&layout=compact&theme=radical&hide_border=true" width="49%" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PriyeshDubey1727&theme=radical&hide_border=true" width="49%" />
 </div>
 
