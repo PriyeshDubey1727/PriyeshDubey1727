@@ -151,20 +151,6 @@ fun_fact: "Turning coffee and curiosity into code"
 
 <br>
 
-## GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyeshDubey1727&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PriyeshDubey1727&theme=radical&hide_border=true" width="80%" />
-</div>
-
-<br>
-
-<div align="center">
-
 ## Let's Connect
 
 <table>
