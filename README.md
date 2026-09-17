@@ -122,7 +122,7 @@ fun_fact: "Turning coffee and curiosity into code"
 
 | Platform | Highlights |
 |:---:|:---|
-| **LeetCode** | 140+ problems solved across Arrays, Strings, Linked Lists, Trees, Graphs & DP |
+| **LeetCode** | 200+ problems solved across Arrays, Strings, Linked Lists, Trees, Graphs & DP |
 | **HackerRank** | Java &nbsp;·&nbsp; Problem Solving &nbsp;·&nbsp; Python |
 
 </div>
